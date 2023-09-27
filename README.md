@@ -35,7 +35,7 @@ The MusicPlayer project is a Django-based web application designed to play, orga
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/musicplayer-django.git
+   git clone https://github.com/yourusername/Musicplayer.git
    cd musicplayer-django
    ```
 
